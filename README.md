@@ -1,8 +1,6 @@
-- 👋  Hi, I’m @Pedro-Simon
-- 👀  I’m interested in solutions involving civil engineering and web dev
+- 👋  Hi, I’m @Pedro-Simon. I'm a civil engineering student and love to learn about programming projects in my area.
+- 👀  I’m interested in solutions involving civil engineering simulations and web dev.
 - 🌱  I’m currently learning python and javascript
-- 💞️  I’m looking to collaborate on innovative projects in my area
-- 📫  You can reach me in https://www.linkedin.com/in/pedro-simon-30452b163/
 
 <!---
 Pedro-Simon/Pedro-Simon is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
